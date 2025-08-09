@@ -12,13 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hardi321&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Mocha User Preview" width=400>
 </div>
 
-<br><br>
-
-### 🛠️ Tech Stack
-
-<div align="center">
- 
-</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hardi321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false" height="150" alt="languages graph"  />
